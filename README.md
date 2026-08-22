@@ -234,9 +234,4 @@ Contains the outreach history and sending status.
 
 SQLite database used to store the outreach records.
 
-## 10. How to Run the Project
 
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
